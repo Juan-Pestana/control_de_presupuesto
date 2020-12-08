@@ -7,11 +7,16 @@ Citas Pacientes es una aplicación sencilla para hacer un cálculo del coste del
 
 ## Aprendizaje
 
-Practicamos la manipulación de componentes y actualización del estado mediante formularios, y validamos mediante la utilización de propTypes en los distintos componentes
+Practicamos la manipulación de componentes y actualización del estado mediante formularios,
+
+utilizo hooks como useState  
+
+validamos mediante la utilización de propTypes en los distintos componentes
 
 ## Estilos
 
 En este caso se utiliza la librería Emotion como herramienta, con el objeto de conocer y practicar de CSS in JS
+Tambien se utiliza React Transition Group para añadir efectos
 Para el spinner he utilizado [spinkit](https://tobiasahlin.com/spinkit/)
 
 ## Available Scripts
